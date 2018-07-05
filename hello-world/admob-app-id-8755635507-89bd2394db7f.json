@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "admob-app-id-8755635507",
+  "private_key_id": "89bd2394db7f827d53f97f412dafc612162e5bbf",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCwUCJ1VxJlCV0b\nlcyr173LZCgihdlAs98jnrbncr1D6TtRDoLhVFiffAXTxyaQcCcN+K1NPYeKCpL1\n7kQpUI7oH/xLFJPZOZmDL9VcN3FBJw6jtUEe0Opdtvd28oVUzvw9cpinGvhn62IT\nmhWlrD6GoW2CKEVFr879Vz/YVenJjFx7p3XuDJJZfltisKTbHw1bI0wmoDTtDQU+\nex+fyjpU8FciiFhEzGWQFDRafeTC8jl1Y58k3wBirHKSB+Clw0kODulDvtmeDd60\nM/bIkMX21zb5TBpTy8OWmucn3IhBnkqapwgiybFB9hCqAaAhRtsRmOcssaIRlNHq\nYuXKnoF3AgMBAAECggEAA0H2L23XukP7ublBI8GwnfPwfxn/0B+JFW4aAHL3YHkl\n1Ll5NwAC3S61wUDfC3DCP/jvlst2vowaEaIz4mfv8NKg3wndZRH/FKEkufeQrgmY\nzllYf5QqAgF4V0HKFeDD+oysZmLSSSh2H1kyLv8pbpcuYBotx+JXzdWEj/lsAIKb\nOIrSyrc7Kb6q+YgF9oBHfZode/7ldsOUR6y9dRUKA0Smf9A36r60x2tSlU35jMCs\n5Td3Yns4v7QljrSx4QIWsw9BO6FWAhA0K3MY6MraM6SM0hzkbVIf40n9VT+mCAzR\nglQgaHtemKTlrILzmkAV8UnBcUVXlf03whp4p2VLGQKBgQDqVojCv8Y29SYI8Kq3\nxiEMa9J6i8UJ1Ce0WGz9GjALhqS97G/PLRMBnAcAib2y0Hv+vT0R728gNETJ0Gz9\ntSWwqADWqAYvHxGlQF2ZRwBDu+QOH9WbEZ/PywNegsieDxHoQO6UdHjdT04p8Odf\n0Jsk2MCMyJ6eFdRQkVex2TnfKQKBgQDAnHluYPIXnjktQg3QImhzrDDbIyh9mVdX\nx4B10FvRK2NjqwZOKJGjxgbRNOft4zFHBndPopv9wKlPp91xSJzPvILsF41x8XZ/\nrC+XGOGAlRByrsadO+yRoiN8CVrZHZY5OH//MMiOQ2VYOpZuqAzbir81qbIiVfCi\nTXkljX2PnwKBgEoUnRtj4NeS3DlLS8zY962jkGBpOxsGVJ7wrVO+KZ4bLI1V52rJ\nRw7lMll7MdsLiYdYb6vx02GM5IogN7Rkxct48PrrFzliSwPAu1YvWegPx+KnMbHZ\n+nmIJkKEecNt5C1WCZYo0+Syo3Ui0SI7IjCdzRE0guBa6kmmCOESWPcxAoGALOtR\nFoDddMydoQRqnEOqAHAD5NdKNiBw0jPgrZkuEJYB09iq28dyT7N7G4cvH7eAYoQL\nhzLxFji8Q6tuZWD90SSxk8XaYtxhOl05rA9NZ+NbtqM0Bq9W+I/Lnr2/xiq0Qhv/\nHdCOtT7af70KIDxo4zp0ZVtyA7fvKqrOugdJZRkCgYAuZh4aUJLqkAeE5uR+Elkp\nB/DGP+BMMoFfvrhRfJbCoOrxO1ThrIpchJKS7+l4rZbRN8UeO2U8OUq0RU1lYSih\naAXFfzyJ9RQS1CAJqjxQGPQXveIW6BsorJs83p2epQ4TPEFfeoIA5WIezubmq05v\nfdv6/4StrwzrrINQt9TDrQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "admob-app-id-8755635507@appspot.gserviceaccount.com",
+  "client_id": "117520933086916092459",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/admob-app-id-8755635507%40appspot.gserviceaccount.com"
+}
